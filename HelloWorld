@@ -1,0 +1,13 @@
+/* This is a c++ program to insert and delete array elements given by the user.
+   Created By: Mani Agarwal
+   Email : agarwalmani22@gmail.com
+   Date  : 25-10-2018
+*/ 
+
+public class HelloWorld
+{
+    public static void main()
+    {
+        System.out.println("Hello World");
+    }
+}
