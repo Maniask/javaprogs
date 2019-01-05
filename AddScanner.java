@@ -1,12 +1,13 @@
-// Importing Scanner Class from the util pacakage. 
-import java.util.Scanner; 
-
 /* 
-  This is the program for finding if the given number is even or odd.
+  This is the program for adding two nos given by the user.
   Created By: Mani Agarwal
   Email : agarwalmani22@gmail.com
   Date  : 05-01-2019
 */
+
+// Importing Scanner Class from the util pacakage. 
+import java.util.Scanner; 
+
 
 // Begining of Class Add
  class Add
